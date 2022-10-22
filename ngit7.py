@@ -24,7 +24,7 @@ def primeFactors(n):
 
     # Condition if n is a prime
     # number greater than 2
-    if n > 2
+    if n > 2:
         print
         n
 
